@@ -1,6 +1,0 @@
-﻿  CPS511A1.vcxproj -> E:\RU\CPS511\CPS511A1\Debug\CPS511A1.exe
-  “E:\RU\CPS511\CPS511A1\Dependencies\freeglut\bin\Win32\freeglut.dll”“E:\RU\CPS511\CPS511A1\Debug\” 
-  The filename, directory name, or volume label syntax is incorrect.
-          0 file(s) copied.
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: The command "copy “E:\RU\CPS511\CPS511A1\Dependencies\freeglut\bin\Win32\freeglut.dll”“E:\RU\CPS511\CPS511A1\Debug\”
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: :VCEnd" exited with code 1.
